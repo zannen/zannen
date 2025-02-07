@@ -1,3 +1,3 @@
 - 🗺️ I am a British person living in Kent (UK).
-- 🔭 I am currently working on my repo of [Sample Kubernetes apps](/k8s-apps/) so I can refresh existing knowledge and learn new concepts.
+- 🔭 I am currently working on my repo of [Sample Kubernetes apps](https://github.com/zannen/k8s-apps/) so I can refresh existing knowledge and learn new concepts.
 - 💼 I am available for work, either remote or hybrid (into London 2 or 3 days a week), and either permanent or contract. If you're looking for a Linux DevOps person, [📫 contact me](mailto:github3746@ashleygc.co.uk).
