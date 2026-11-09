@@ -1,3 +1,3 @@
-- 🗺️ I am a British person living in Kent (UK), 25 minutes by train from Kings Cross / St Pancras.
-- 🔭 I am currently working on my repo of [Sample Kubernetes apps](https://github.com/zannen/k8s-apps/) so I can refresh existing knowledge and learn new concepts.
-- 💼 I am available for work, either remote or hybrid (into London max 3 days a week), and either permanent or contract. If you're looking for a Linux DevOps person, [📫 contact me](mailto:github3746@ashleygc.co.uk).
+- 🗺️ I am a British person living in Kent (UK), 25 minutes by train from London Kings Cross / St Pancras.
+- 💼 I am currently working as a Linux DevOps contractor (see [gh: Flying Obsidian](https://github.com/flyingobsidian/), [Flying Obsidian Ltd](https://www.flyingobsidian.co.uk/)), and on some mobile phone apps, and using LLMs to magic up some niche time-saving webapps.
+- 🔭 I am available for part-time contract work (outside IR35), either remote or hybrid (into London max 1 day a week). If you're looking for a Linux DevOps contractor, [📫 contact me](mailto:github3746@ashleygc.co.uk).
